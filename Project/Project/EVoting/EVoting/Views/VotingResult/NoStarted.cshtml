@@ -1,0 +1,72 @@
+﻿
+@{
+    ViewBag.Title = "NoStarted";
+    Layout = "~/Views/Layout.cshtml";
+}
+
+
+<form action="Logoff" method="post">
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+    <ul>
+        <li><a class="active" href="">Home</a></li>
+        <li><a href="/CandidatesRegistration/CandidatesRegistration">Candidates Registration</a></li>
+        <li><a href="/CandidatesList/CandidatesList">Candidates List</a></li>
+        <li><a href="/VotingPanel/VotingPanel">Voting Panel</a></li>
+        <li><a href="/VotingResult/VotingResult">Results</a></li>
+        <li style="margin-left:420px;"><a href="#">@Session["username"].ToString()</a> </li>
+        <li><input type="submit" value="LOGOUT"></li>
+    </ul>
+</form>
+
+<h1>Voting Results</h1>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+
+    <link href="~/styles/StyleSheet1.css" rel="stylesheet" />
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900&display=swap" rel="stylesheet">
+    <!-- Bootstrap CSS -->
+    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css'>
+    <!-- Font Awesome CSS -->
+    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css'>
+
+</head>
+<body>
+    <div class="student-profile py-4">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-lg-12">
+                    <div class="card shadow-sm">
+                        <div class="card-header bg-transparent border-0">
+                            <h3 class="mb-0"><i class="far fa-clone pr-1"></i>Not Started</h3>
+                        </div>
+                        <div class="card-body pt-0">
+                            <table class="table table-bordered">
+
+                                <tr>
+                                    <td>Voting Period Not Active Yet! So No Results To Display.</td>
+                                </tr>
+
+                            </table>
+                        </div>
+
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+</body>
+
+</html>
+
+

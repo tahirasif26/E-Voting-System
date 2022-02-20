@@ -1,0 +1,92 @@
+﻿
+@{
+    ViewBag.Title = "Register";
+    Layout = "~/Views/Layout.cshtml";
+}
+
+<ul>
+    <li><a class="active" href="/Index/Index">Home</a></li>
+    <li><a href="/Login/Login">Login</a></li>
+    <li><a href="/Register/Register">Register</a></li>
+    <li><a href="/About/bout">About</a></li>
+</ul>
+<h1>Register Form </h1>
+<div class="clear-loading spinner">
+    <span></span>
+</div>
+<div class="w3ls-login box box--big">
+    <form action="SaveDetails" method="post">
+        <div class="agile-field-txt">
+            <label><i class="fa fa-user" aria-hidden="true"></i> NU ID </label>
+            <input type="text" name="rollno" placeholder="18K-XXXX" required="" />
+        </div>
+        <div class="agile-field-txt">
+            <label><i class="fa fa-user" aria-hidden="true"></i> Name </label>
+            <input type="text" name="name" placeholder="Enter name" required="" />
+        </div>
+        <div class="agile-field-txt">
+            <label><i class="fa fa-user" aria-hidden="true"></i> Section </label>
+            <input type="text" name="section" placeholder="Enter section" required="" />
+        </div>
+        <div class="agile-field-txt">
+            <label><i class="fa fa-user" aria-hidden="true"></i> Batch </label>
+            <input type="text" name="batch" placeholder="2018" required="" />
+        </div>
+        <div class="agile-field-txt">
+            <label><i class="fa fa-user" aria-hidden="true"></i> Degree </label>
+            <input type="text" name="degree" placeholder="Enter degree" required="" />
+        </div>
+        <div class="agile-field-txt">
+            <label><i class="fa fa-user" aria-hidden="true"></i> Phone Number </label>
+            <input type="text" name="pno" placeholder="0300XXXXXXX" required="" />
+        </div>
+        <div class="agile-field-txt">
+            <label><i class="fa fa-user" aria-hidden="true"></i> CNIC </label>
+            <input type="text" name="cnic" placeholder="42201-XXXXXXX-X" required="" />
+        </div>
+
+        <div class="agile-field-txt">
+            <label><i class="fa fa-unlock-alt" aria-hidden="true"></i> Password </label>
+            <input type="password" name="password" placeholder="Enter Password" required="" id="myInput" />
+            <div class="agile_label">
+                <input id="check3" name="check3" type="checkbox" value="show password" onclick="myFunction()">
+                <label class="check" for="check3">Show password</label>
+            </div>
+        </div>
+        <div class="agile-field-txt">
+            <label><i class="fa fa-unlock-alt" aria-hidden="true"></i> Confirm Password </label>
+            <input type="password" name="password" placeholder="Enter Password again" required="" id="myInput" />
+            <div class="agile_label">
+                <input id="check4" name="check4" type="checkbox" value="show password" onclick="myFunction()">
+                <label class="check" for="check4">Show password</label>
+            </div>
+        </div>
+
+        <script>
+            function myFunction() {
+                var x = document.getElementById("myInput");
+                if (x.type === "password") {
+                    x.type = "text";
+                } else {
+                    x.type = "password";
+                }
+            }
+        </script>
+        <input type="submit" value="REGISTER">
+    </form>
+</div>
+
+
+<style>
+
+
+    body {
+        background: url(../images/a.png)no-repeat center;
+        background-size:cover;
+    
+    }
+
+    li a {
+        color: white;
+    }
+</style>

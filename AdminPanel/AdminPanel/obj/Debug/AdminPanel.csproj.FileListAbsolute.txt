@@ -1,0 +1,55 @@
+C:\Users\Dell\Downloads\AdminPanel\AdminPanel\bin\Debug\AdminPanel.exe.config
+C:\Users\Dell\Downloads\AdminPanel\AdminPanel\bin\Debug\AdminPanel.exe
+C:\Users\Dell\Downloads\AdminPanel\AdminPanel\bin\Debug\AdminPanel.pdb
+C:\Users\Dell\Downloads\AdminPanel\AdminPanel\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Dell\Downloads\AdminPanel\AdminPanel\obj\Debug\AdminPanel.csproj.AssemblyReference.cache
+C:\Users\Dell\Downloads\AdminPanel\AdminPanel\obj\Debug\AdminPanel.Login.resources
+C:\Users\Dell\Downloads\AdminPanel\AdminPanel\obj\Debug\AdminPanel.Properties.Resources.resources
+C:\Users\Dell\Downloads\AdminPanel\AdminPanel\obj\Debug\AdminPanel.csproj.GenerateResource.cache
+C:\Users\Dell\Downloads\AdminPanel\AdminPanel\obj\Debug\AdminPanel.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\AdminPanel\AdminPanel\obj\Debug\AdminPanel.csproj.CopyComplete
+C:\Users\Dell\Downloads\AdminPanel\AdminPanel\obj\Debug\AdminPanel.exe
+C:\Users\Dell\Downloads\AdminPanel\AdminPanel\obj\Debug\AdminPanel.pdb
+C:\Users\Dell\Downloads\AdminPanel\AdminPanel\obj\Debug\AdminPanel.Dashboard.resources
+C:\Users\Dell\Downloads\AdminPanel\AdminPanel\obj\Debug\AdminPanel.VoterList.resources
+C:\Users\Dell\Downloads\AdminPanel\AdminPanel\obj\Debug\AdminPanel.Update.resources
+C:\Users\Dell\Downloads\AdminPanel\AdminPanel\obj\Debug\AdminPanel.CandidateList.resources
+C:\Users\Dell\Downloads\AdminPanel\AdminPanel\obj\Debug\AdminPanel.VotingPanel.resources
+C:\Users\Dell\Desktop\AdminPanel\AdminPanel\bin\Debug\AdminPanel.exe.config
+C:\Users\Dell\Desktop\AdminPanel\AdminPanel\bin\Debug\AdminPanel.exe
+C:\Users\Dell\Desktop\AdminPanel\AdminPanel\bin\Debug\AdminPanel.pdb
+C:\Users\Dell\Desktop\AdminPanel\AdminPanel\obj\Debug\AdminPanel.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\AdminPanel\AdminPanel\obj\Debug\AdminPanel.CandidateList.resources
+C:\Users\Dell\Desktop\AdminPanel\AdminPanel\obj\Debug\AdminPanel.Dashboard.resources
+C:\Users\Dell\Desktop\AdminPanel\AdminPanel\obj\Debug\AdminPanel.Login.resources
+C:\Users\Dell\Desktop\AdminPanel\AdminPanel\obj\Debug\AdminPanel.Properties.Resources.resources
+C:\Users\Dell\Desktop\AdminPanel\AdminPanel\obj\Debug\AdminPanel.Update.resources
+C:\Users\Dell\Desktop\AdminPanel\AdminPanel\obj\Debug\AdminPanel.VoterList.resources
+C:\Users\Dell\Desktop\AdminPanel\AdminPanel\obj\Debug\AdminPanel.VotingPanel.resources
+C:\Users\Dell\Desktop\AdminPanel\AdminPanel\obj\Debug\AdminPanel.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\AdminPanel\AdminPanel\obj\Debug\AdminPanel.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\AdminPanel\AdminPanel\obj\Debug\AdminPanel.csproj.CopyComplete
+C:\Users\Dell\Desktop\AdminPanel\AdminPanel\obj\Debug\AdminPanel.exe
+C:\Users\Dell\Desktop\AdminPanel\AdminPanel\obj\Debug\AdminPanel.pdb
+C:\Users\Dell\Desktop\AdminPanel\AdminPanel\obj\Debug\AdminPanel.Result.resources
+C:\Users\Dell\Desktop\AdminPanel\AdminPanel\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dell\Desktop\AdminPanel\AdminPanel\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hp\Desktop\IPT Project\AdminPanel\AdminPanel\bin\Debug\AdminPanel.exe.config
+C:\Users\hp\Desktop\IPT Project\AdminPanel\AdminPanel\bin\Debug\AdminPanel.exe
+C:\Users\hp\Desktop\IPT Project\AdminPanel\AdminPanel\bin\Debug\AdminPanel.pdb
+C:\Users\hp\Desktop\IPT Project\AdminPanel\AdminPanel\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\IPT Project\AdminPanel\AdminPanel\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hp\Desktop\IPT Project\AdminPanel\AdminPanel\obj\Debug\AdminPanel.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\IPT Project\AdminPanel\AdminPanel\obj\Debug\AdminPanel.CandidateList.resources
+C:\Users\hp\Desktop\IPT Project\AdminPanel\AdminPanel\obj\Debug\AdminPanel.Dashboard.resources
+C:\Users\hp\Desktop\IPT Project\AdminPanel\AdminPanel\obj\Debug\AdminPanel.Login.resources
+C:\Users\hp\Desktop\IPT Project\AdminPanel\AdminPanel\obj\Debug\AdminPanel.Properties.Resources.resources
+C:\Users\hp\Desktop\IPT Project\AdminPanel\AdminPanel\obj\Debug\AdminPanel.Result.resources
+C:\Users\hp\Desktop\IPT Project\AdminPanel\AdminPanel\obj\Debug\AdminPanel.Update.resources
+C:\Users\hp\Desktop\IPT Project\AdminPanel\AdminPanel\obj\Debug\AdminPanel.VoterList.resources
+C:\Users\hp\Desktop\IPT Project\AdminPanel\AdminPanel\obj\Debug\AdminPanel.VotingPanel.resources
+C:\Users\hp\Desktop\IPT Project\AdminPanel\AdminPanel\obj\Debug\AdminPanel.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\IPT Project\AdminPanel\AdminPanel\obj\Debug\AdminPanel.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\IPT Project\AdminPanel\AdminPanel\obj\Debug\AdminPanel.csproj.CopyComplete
+C:\Users\hp\Desktop\IPT Project\AdminPanel\AdminPanel\obj\Debug\AdminPanel.exe
+C:\Users\hp\Desktop\IPT Project\AdminPanel\AdminPanel\obj\Debug\AdminPanel.pdb
